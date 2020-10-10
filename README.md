@@ -1,25 +1,20 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A passionate developer from The Netherlands</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theroks&label=Profile%20views&color=0e75b6&style=flat" alt="theroks" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theroks" alt="theroks" /></a> </p>
-
+<h1 align="center">Hello 👋</h1>
 <p align="left"> <a href="https://twitter.com/theroks" target="blank"><img src="https://img.shields.io/twitter/follow/theroks?logo=twitter&style=for-the-badge" alt="theroks" /></a> </p>
 
-- 🔭 I’m currently working on [Centraal Beheer](https://www.centraalbeheer.nl)
+- 🌱 I’m currently learning **NuxtJS, NextJS**
 
-- 🌱 I’m currently learning **Docker**
+- 📝 I regulary write blogposts on [https://theroks.com](https://theroks.com)
 
-- 📝 I regulary write articles on [https://theroks.com](https://theroks.com)
-
-- 💬 Ask me about **C#, Sitecore, GatsbyJS**
+- 💬 Ask me about **C#, Sitecore, GatsbyJS, Contentfull**
 
 - 📫 How to reach me **stefan@theroks.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/theroks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theroks" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stefan-roks-82a3aa4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefan-roks-82a3aa4" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12258906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12258906" height="30" width="40" /></a>
+<a href="/https://feeds.feedburner.com/theroks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://feeds.feedburner.com/theroks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
