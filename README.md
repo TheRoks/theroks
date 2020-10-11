@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <p align="left"> <a href="https://twitter.com/theroks" target="blank"><img src="https://img.shields.io/twitter/follow/theroks?logo=twitter&style=for-the-badge" alt="theroks" /></a> </p>
 
-- 🌱 I’m currently learning **JAM Stack**
+- 🌱 I’m currently learning **Jamstack**
 
 - 📝 I regulary write blogposts on [https://theroks.com](https://theroks.com)
 
