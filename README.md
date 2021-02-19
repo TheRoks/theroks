@@ -5,7 +5,7 @@
 
 - 📝 I regulary write blogposts on [https://theroks.com](https://theroks.com)
 
-- 💬 Ask me about **C#, Sitecore, GatsbyJS, Contentfull**
+- 💬 Ask me about **C#, Sitecore, GatsbyJS, Contentful**
 
 - 📫 How to reach me **stefan@theroks.com**
 
